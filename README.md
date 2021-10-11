@@ -1,2 +1,2 @@
 # CursedGenshin.fun
-Just some practice code for the site.
+site's open source, lol
