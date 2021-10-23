@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>401 Authorization Required - Hosted free by ServedEZ - Webhosting, made simple, Served Easy!</title>
+<!-- Meta tag Keywords -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Smart Error Page Responsive Widget,Login form widgets, Sign up Web forms , Login signup Responsive web form,Flat Pricing table,Flat Drop downs,Registration Forms,News letter Forms,Elements" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
+function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Meta tag Keywords -->
+
+<!-- css files -->
+<link href="https://servedez.com/random/error/css/style.css" rel="stylesheet" type="text/css" media="all">
+<!-- //css files -->
+
+<!-- online-fonts -->
+<link href="//fonts.googleapis.com/css?family=Ropa+Sans:400,400i&amp;subset=latin-ext" rel="stylesheet">
+<!--//online-fonts -->
+</head>
+<body>
+
+<div class="header">
+	<h1>Page not found - Hosted  by ServedEZ</h1>
+</div>
+<div class="w3-main">
+	<div class="agile-info">
+	    <p><a href="https://servedez.com">CLICK HERE, GET FREE WEBSITE AND FREE HOSTING<br /> $0/MO</a></p>
+		<h3>SORRY</h3>
+		<h2>4<img src="https://servedez.com/random/error/images/confused.gif" alt="image">1</h2>
+		<p>This server could not verify that you are authorized to access the document requested. Either you supplied the wrong credentials (e.g., bad password), or your browser doesn't understand how to supply the credentials required.</p>
+		
+		<a href="../">go back</a> 
+	</div>
+</div>
+<div class="footer-w3l">
+	<p>&copy; 2018 ServedEZ.com . All rights reserved | Free Unlimited Webhosting Powered by<a href="https://servedez.com">ServedEZ</a></p>
+</div>
+
+</body>
+</html>

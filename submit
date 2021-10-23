@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<head>
+	<link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+	<link rel="icon" type="image/png" href="https://www.cursedgenshin.fun/uploads/EEA82EC6-DAE7-4719-B566-3E3489574FEA.png">
+    <p>Go on, you know you wanna.</p>
+    <title>Upload an Image</title>
+	<form action="upload.php" method="post" enctype="multipart/form-data">
+  		Select image to upload:
+  		<input type="file" name="fileToUpload" id="fileToUpload">
+ 		<input type="submit" value="Upload Image" name="submit">
+	</form>
