@@ -1,4 +1,4 @@
 # CursedGenshin.fun
-site's open source, lol
 
-Check out the site: https://cursedgenshin.fun
+Brought back up via 000webhost.
+https://cursedgenshinfun.000webhostapp.com/
